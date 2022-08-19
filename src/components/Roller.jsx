@@ -53,7 +53,7 @@ export class Roller extends Component{
                                         <QualityRoller>
                                           <span>Full HD</span>
                                         </QualityRoller>
-                                        <a href="https://google.com"><img src={`${this.state.imagePath}${movie.image_url}`} alt={movie.nome} /></a>
+                                        <a href="#"><img src={`${this.state.imagePath}${movie.image_url}`} alt={movie.nome} /></a>
                                         {/* <span>{movie.nome}</span> */}
                                     </MovieRoll>
                                 )

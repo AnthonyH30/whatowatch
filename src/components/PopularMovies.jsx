@@ -51,7 +51,7 @@ GetApi = async () => {
                       <Quality>
                         <span>Full HD</span>
                       </Quality>
-                        <a href="https://google.com"><img src={`${this.state.imagePath}${movie.image_url}`} alt={movie.nome} /></a>
+                        <a href="#"><img src={`${this.state.imagePath}${movie.image_url}`} alt={movie.nome} /></a>
                         {/* <span>{movie.nome}</span> */}
                     </Movie>
                 )
