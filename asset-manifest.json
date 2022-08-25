@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/whatowatch/static/css/main.620fc9fd.css",
-    "main.js": "/whatowatch/static/js/main.525d1e29.js",
+    "main.js": "/whatowatch/static/js/main.68a1aba3.js",
     "static/media/logo.png": "/whatowatch/static/media/logo.ba4d0280619ca499f15e.png",
     "index.html": "/whatowatch/index.html",
     "main.620fc9fd.css.map": "/whatowatch/static/css/main.620fc9fd.css.map",
-    "main.525d1e29.js.map": "/whatowatch/static/js/main.525d1e29.js.map"
+    "main.68a1aba3.js.map": "/whatowatch/static/js/main.68a1aba3.js.map"
   },
   "entrypoints": [
     "static/css/main.620fc9fd.css",
-    "static/js/main.525d1e29.js"
+    "static/js/main.68a1aba3.js"
   ]
 }
